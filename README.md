@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex
 
-<!--
-**jynzo94/jynzo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer from Sofia, Bulgaria.  
+I build modern web apps with **Next.js, TypeScript, PayloadCMS, Supabase, Stripe**.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** Next.js, React, Tailwind, Shadcn, daisyUI, MUI  
+- **Backend:** Node.js, PayloadCMS, Supabase, PostgreSQL, MongoDB
+- **Infra:** Docker, Coolify / Dokploy, Vercel, Cloudflare  
+- **Other:** Stripe, Weaviate, OpenAI API and many more tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- [💼 LinkedIn](https://www.linkedin.com/in/alexander-m-kolarov/)  
+- [📊 Stack Overflow](https://stackoverflow.com/users/4367158/alexander-kolarov)  
