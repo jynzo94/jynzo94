@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alex
 
 I'm a Full-Stack Developer from Sofia, Bulgaria.  
-I build modern web apps with **Next.js, TypeScript, PayloadCMS, Supabase, Stripe**.
+I build modern web apps with **Next.js, TypeScript, PayloadCMS, SQL / NoSQL and many more**.
 
 ## 🛠 Tech Stack
 - **Frontend:** Next.js, React, Tailwind, Shadcn, daisyUI, MUI  
